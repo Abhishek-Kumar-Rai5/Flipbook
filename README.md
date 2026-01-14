@@ -70,4 +70,7 @@ Instead of static animations, the system allows **user-driven animation control*
 1. Open MATLAB (R2020b or later recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/interactive-matlab-flipbook.git
+   git clone (https://github.com/your-username/interactive-matlab-flipbook.git)
+
+3. Open MATLAB and set your working directory to the folder you want (`Construction-Crane-Animation`, `Linear-Algebra-Transformation-Study-cum-Play`,`Maze-Solver-Game-Animation`,`Rocket-Path-Navigation-Animation` or `Sound-Responsive-Background-Animation`).
+See each folder's README for how to run the scripts or GUIs.
