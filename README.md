@@ -100,4 +100,4 @@ Matlab-Fused Flipbook Animation/
    git clone (https://github.com/your-username/interactive-matlab-flipbook.git)
 
 3. Open MATLAB and set your working directory to the folder you want (`Construction-Crane-Animation`, `Linear-Algebra-Transformation-Study-cum-Play`,`Maze-Solver-Game-Animation`,`Rocket-Path-Navigation-Animation` or `Sound-Responsive-Background-Animation`).
-4. See each folder's README for how to run the scripts or GUIs.
+4. See each folder's mlapp files for running them as a app with GUI and the .m file is the matlab file.
