@@ -6,8 +6,35 @@ A flipbook works by displaying a sequence of frames with small graphical changes
 Building on this idea, this project uses **MATLAB App Designer (mlapp)** to create GUI-based animations where users can control motion through commands.
 
 Instead of static animations, the system allows **user-driven animation control**, making the flipbook concept interactive and extensible.
-
 ---
+
+## Repository Structure
+
+```
+Matlab-Fused Flipbook Animation/
+│
+├── Construction-Crane-Animation/
+│   ├── Construction_Crane_Animation.m
+│   └── Crane-Animation-GUI.mlapp
+│
+├── Linear-Algebra-Transformation-Study-cum-Play/
+│   ├── Linear-Algebra-Step-Game.mlapp
+│   └── Linear_Algebra_Transform_Game.m
+│
+├── Maze-Solver-Game-Animation/
+│   ├── Maze-Solver-Game-Animation.mlapp
+│   └── Maze_solver_game.m
+│ 
+├── Rocket-Path-Navigation-Animation/
+│   ├── Rocket-Trajectory-animation.mlapp
+│   └── Rocket_Trajectory.m
+│
+├── Sound-Responsive-Background-Animation/
+│   ├── Sound-Responsive-Background-Animator.mlapp
+│   └── Sound_Responsive_Background.m
+│
+└── README.md
+```
 
 ## Key Features
 - Flipbook-style frame-by-frame animations
@@ -73,4 +100,4 @@ Instead of static animations, the system allows **user-driven animation control*
    git clone (https://github.com/your-username/interactive-matlab-flipbook.git)
 
 3. Open MATLAB and set your working directory to the folder you want (`Construction-Crane-Animation`, `Linear-Algebra-Transformation-Study-cum-Play`,`Maze-Solver-Game-Animation`,`Rocket-Path-Navigation-Animation` or `Sound-Responsive-Background-Animation`).
-See each folder's README for how to run the scripts or GUIs.
+4. See each folder's README for how to run the scripts or GUIs.
